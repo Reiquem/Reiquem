@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reiquem
+- 👋 Hi, I’m Diogo
 - 👀 I’m interested in programing ,robots and things.
 - 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on everything i can.
