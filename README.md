@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diogo
 - 👀 I’m interested in programing ,robots and things.
-- 🌱 I’m currently learning JavaScript and Python.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on everything i can.
 - 📫 How to reach me on linkedin: www.linkedin.com/in/dplsantos or email: dpls.diogo@outlook.com
 
