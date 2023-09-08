@@ -8,4 +8,4 @@
 Reiquem/Reiquem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=seu-nome-de-usuário.seu-repositório)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=Reiquem.seu-repositório)
