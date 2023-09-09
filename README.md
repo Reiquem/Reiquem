@@ -20,6 +20,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
+<div>
+  <h1>Main Skills</h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  <h1>Studying in this moment</h1>
+</div>
+
 
 <!---
 Reiquem/Reiquem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
