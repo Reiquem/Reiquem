@@ -22,7 +22,7 @@
 
 <div>
   <h1>Main Skills</h1>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-git-plain-wordmark"></i>
           
   <h1>Studying in this moment</h1>
 </div>
