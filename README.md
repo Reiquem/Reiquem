@@ -21,10 +21,12 @@
 </div>
 
 <div>
-  <h1>Main Skills</h1>
+  <h2>Main Skills</h2>
+  <div>
 <i class="devicon-git-plain-wordmark"></i>
-          
-  <h1>Studying in this moment</h1>
+    </div>      
+  <h2>Studying in this moment</h2>
+   <div>
 </div>
 
 
