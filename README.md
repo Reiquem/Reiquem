@@ -16,9 +16,9 @@
 <a href="https://www.twitch.tv/Reiquemg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:dpls.diogo@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dplsantos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 
 <!---
