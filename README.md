@@ -4,10 +4,18 @@
 - 👀 I’m interested in programing ,robots and things.
 - 📫 How to reach me on linkedin: www.linkedin.com/in/dplsantos or email: dpls.diogo@outlook.com
 
+
+
+<div>
+<a href="https://instagram.com/diogo.pls/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/Reiquemg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:dpls.diogo@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dplsantos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!---
 Reiquem/Reiquem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
