@@ -1,10 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B302F7&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Diogo;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+a+computer+science+student.;%F0%9F%A4%93+I'm+26+years+old+;+%F0%9F%87%A7%F0%9F%87%B7+I'm+from+Brazil+;%F0%9F%98%8A+Be+Welcome+!+%3AD+)](https://git.io/typing-svg)
+![Texto Alternativo](https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif)
 
 - 🌱 I’m currently learning Vue, Nuxt3 and TypeScript
 - 👀 I’m interested in programing ,robots and things.
 - 📫 How to reach me on linkedin: www.linkedin.com/in/dplsantos or email: dpls.diogo@outlook.com
 
-
+<div>
+<a href="https://github.com/Reiquem">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reiquem&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Reiquem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div>
 <a href="https://instagram.com/diogo.pls/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
