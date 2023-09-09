@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B302F7&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Diogo;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+a+computer+science+student.;%F0%9F%A4%93+I'm+26+years+old+;+%F0%9F%87%A7%F0%9F%87%B7+I'm+from+Brazil+;%F0%9F%98%8A+Be+Welcome+!+%3AD+)](https://git.io/typing-svg)
-![Texto Alternativo](https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif)
+
 
 - 🌱 I’m currently learning Vue, Nuxt3 and TypeScript
 - 👀 I’m interested in programing ,robots and things.
@@ -17,7 +17,7 @@
 <a href = "mailto:dpls.diogo@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dplsantos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquem&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
