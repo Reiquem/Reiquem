@@ -27,6 +27,11 @@
     </div>      
   <h2>Studying in this moment</h2>
 <div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,vue,,arduino,nuxtjsm" />
+  </a>
+</p>
      [![My Skills](https://skillicons.dev/icons?i=ts,vue,,arduino,nuxtjs)](https://skillicons.dev)
 </div>
 
