@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Vue, Nuxt3 and TypeScript
-- 👀 I’m interested in programing ,robots and things.
+- 👀 I’m interested in programing ,robots , games and things.
 - 📫 How to reach me on linkedin: www.linkedin.com/in/dplsantos or email: dpls.diogo@outlook.com
 
 <div>
