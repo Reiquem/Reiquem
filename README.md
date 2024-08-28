@@ -5,6 +5,7 @@
 
 
 </div>
+
 - 🌱 I’m currently learning React, Next, and TypeScript.
 - 👀 I’m interested in programming, robotics, games, and technology.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dplsantos) or via email: dpls.diogo@gmail.com.
