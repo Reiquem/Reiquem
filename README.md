@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=971094&width=435&lines=%F0%9F%A4%93+Welcome+!;%F0%9F%91%8B%F0%9F%8F%BB+I'm+Diogo+;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBComputer+Science+Student)](https://git.io/typing-svg)
 
 </div>
+
 - 🌱 I’m currently learning React, Next, and TypeScript.
 - 👀 I’m interested in programming, robotics, games, and technology.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dplsantos) or via email: dpls.diogo@gmail.com.
@@ -43,6 +44,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 
 ### ⚙️ Already Functional
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
