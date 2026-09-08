@@ -5,7 +5,7 @@
 </div>
 
 - 🌱 I’m currently learning Terraform and AWS.
-- 👀 I’m interested in programming, robotics, games, and technology.
+- 👀 I’m interested in programming,infrastructure, robotics, games, and technology.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dplsantos) or via email: dpls.diogo@gmail.com.
 
 ## 📲 Connect with Me
